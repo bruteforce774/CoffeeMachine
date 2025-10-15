@@ -1,3 +1,5 @@
+package coffeemachine;
+
 import java.util.Map;
 
 public interface Beverage {

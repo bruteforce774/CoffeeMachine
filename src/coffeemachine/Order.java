@@ -1,3 +1,5 @@
+package coffeemachine;
+
 public class Order {
     private Beverage beverage;
     private int quantity;

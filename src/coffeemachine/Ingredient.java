@@ -1,3 +1,5 @@
+package coffeemachine;
+
 import java.util.Objects;
 
 public class Ingredient {
